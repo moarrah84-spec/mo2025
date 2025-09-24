@@ -1,0 +1,7 @@
+(function() {
+  document.getElementsByTagName("h1")[0].style.fontSize = "6vw";
+
+}).call(this);
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiPGFub255bW91cz4iXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFBQSxRQUFRLENBQUMsb0JBQVQsQ0FBOEIsSUFBOUIsQ0FBbUMsQ0FBQyxDQUFELENBQUcsQ0FBQyxLQUFLLENBQUMsUUFBN0MsR0FBd0Q7QUFBeEQiLCJzb3VyY2VzQ29udGVudCI6WyJkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZShcImgxXCIpWzBdLnN0eWxlLmZvbnRTaXplID0gXCI2dndcIjsiXX0=
+//# sourceURL=coffeescript

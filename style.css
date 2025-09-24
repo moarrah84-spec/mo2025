@@ -1,0 +1,48 @@
+body {
+  font-family: system-ui;
+  background: #f06d06;
+  color: white;
+  text-align: center;
+}
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  background-color: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
+}
+
+h1,
+h2 {
+  color: #0056b3;
+  text-align: center;
+}
+
+.image-container {
+  text-align: center; /* لتوسيط الصور */
+  margin: 20px 0;
+}
+
+.image-container img {
+  max-width: 30%; /* يسمح للصور بالانكماش إذا كان عرض المنفذ صغيرًا */
+  height: auto; /* يحافظ على نسبة العرض إلى الارتفاع */
+  margin: 10px;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.centered-image {
+  display: block; /* يجعل الصورة كتلة */
+  margin-left: auto; /* يضبط الهوامش اليسرى واليمنى إلى تلقائية */
+  margin-right: auto;
+  max-width: 60%; /* حجم أكبر قليلاً للصورة المركزية */
+}
+
+ul {
+  list-style-type: square;
+  margin-left: 20px;
+}
+
+li {
+  margin-bottom: 8px;
+}
